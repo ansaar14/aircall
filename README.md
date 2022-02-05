@@ -1,3 +1,5 @@
+Deployed site: https://eloquent-jones-151d20.netlify.app/
+
 ## Summary
 
 The goal of this test is to make you code a small ReactJS app. We have prepared a skeleton app for you, but please change whatever you want (CSS files, HTML structure, JS structure, etc).
